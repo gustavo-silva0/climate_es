@@ -75,4 +75,4 @@ To run this project locally, follow these steps:
 * **Climate Change Simulation:** A query-based simulation of a $2°C$ global temperature increase shows a significant reduction in "cold-climate" municipalities in the state.
 
 ---
-**Developed by [Seu Nome]** *Geospatial Data Science & Climate Analysis*
+**Developed by Gustavo Silva Santos** *Geospatial Data Science & Climate Analysis*
