@@ -21,7 +21,7 @@ The study uses the **Adiabatic Lapse Rate** to correlate altitude and temperatur
 ## 📂 Data Acquisition & Sources
 Due to file size limitations, raw geospatial datasets (Rasters and GeoPackages) are not hosted in this repository. You can access the official data used in this project through the following links:
 
-* **Digital Elevation Model (Raster):** Obtained from the [TOPODATA Project (INPE)](http://www.webmapit.com.br/inpe/topodata/).
+* **Digital Elevation Model (Raster):** Obtained from the [TOPODATA Project (INPE)](https://www.google.com/maps/d/viewer?mid=1Yle0c2VU4waXo-Kzn0RBONZG9NgSYas&ll=-20.425761794368373%2C-39.04870630643583&z=6).
 * **Administrative Boundaries (Vector):** Municipal and State borders sourced from the [IBGE](https://www.ibge.gov.br/geociencias/cartografia/malhas-territoriais/).
 * **Historical Climate Data:** Meteorological normals sourced from [INMET](https://portal.inmet.gov.br/).
 * **Cartographic Support:** Reference lines (Equator and Tropics) provided by [Natural Earth](https://www.naturalearthdata.com/).
