@@ -113,4 +113,8 @@ To run this project locally, follow these steps:
 * **Climate Change Simulation:** A query-based simulation of a $2°C$ global temperature increase shows a significant reduction in "cold-climate" municipalities in the state.
 
 ---
+
+**Read my post on Medium:** https://medium.com/@g.silva0/title-where-to-plant-coffee-0edc94a03aef
+
+---
 **Developed by Gustavo Silva Santos** *Geospatial Data Science & Climate Analysis*
