@@ -31,6 +31,44 @@ The repository includes processed tabular data from INMET and reference vector l
 
 ---
 
+### Data Dictionary | Dicionário de Dados | Table: "municipios_es"
+
+| Attribute (Atributo) | Description (PT-BR) | Description (EN) |
+| :--- | :--- | :--- |
+| `NM_MUN` | Nome do Município | Municipality Name |
+| `NM_RGI` | Nome da Microrregião | Microrregion Name |
+| `alt_mean` | Altitude Média (m) | Average Altitude (m) |
+| `alt_min` | Altitude Mínima (m) | Minimum Altitude (m) |
+| `alt_max` | Altitude máxima (m) | Maximum Altitude (m) |
+| `precipitacao_mean` | Precipitação Média (mm) | Precipitation Mean (mm) |
+| `tmax_anual` | Temperatura Máxima Anual (°C) | Annual Maximum Temperature (°C) |
+| `tmin_anual` | Temperatura Mínima Anual (°C) | Annual Minimum Temperature (°C) |
+| `aptidao` | Classificação de Aptidão Agrícola | Agricultural Suitability Classification |
+| `est_ref` | Estação Meteorológica de Referência | Reference Weather Station |
+
+### Table: "estacao_referencia"
+
+| Attribute (Atributo) | Description (PT-BR) | Description (EN) |
+| :--- | :--- | :--- |
+| `nome_estacao` | Nome da Estação | Station Name |
+| `altitude_ref` | Altitude de Referência (m) | Reference Altitude (m) |
+| `temp_ref` | Temperatura de Referência (°C) | Reference Temperature (°C) |
+| `data_ref` | Data de referência | Reference Date |
+| `fonte_ref` | Fonte | Source |
+| `precipitacao_ref` | Precipitação de Referência (mm) | Reference Precipitation (mm) |
+| `geom` | Geometria | Geometry |
+
+### View: "v_estimativa_climatica_es"
+
+| Attribute (Atributo) | Description (PT-BR) | Description (EN) |
+| :--- | :--- | :--- |
+| `temperatura_base` | Temperatura Base (°C) | Base Temperature (°C) |
+| `altitude_base` | Altitude Base (m) | Base Altitude (m) |
+| `temperatura_estimada_celsius` | Temperatura Estimada (°C) | Estimated Temperature (°C) |
+| `chuva_estimada_mm` | Precipitação Estimada (mm) | Estimated Precipitation (mm) |
+
+---
+
 ## 📊 Analysis & Visualizations
 
 ### 🗺️ Spatial Modeling (QGIS)
