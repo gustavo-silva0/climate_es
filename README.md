@@ -114,7 +114,12 @@ To run this project locally, follow these steps:
 
 ---
 
-**Read my post on Medium:** https://medium.com/@g.silva0/title-where-to-plant-coffee-0edc94a03aef
+### 🤝 Let's Connect! / Vamos nos conectar!
 
+If you are interested in **Geospatial Data Science**, **AgTech**, or **Smart Cities**, feel free to reach out!
+Se você tem interesse em **Ciência de Dados Geoespaciais**, **AgTech** ou **Cidades Inteligentes**, sinta-se à vontade para se conectar!
+
+- [LinkedIn](www.linkedin.com/in/gustavo-silva-89170b384)
+- [Medium Artigo](https://medium.com/@g.silva0/title-where-to-plant-coffee-0edc94a03aef)
 ---
 **Developed by Gustavo Silva Santos** *Geospatial Data Science & Climate Analysis*
